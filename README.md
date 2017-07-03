@@ -1,3 +1,3 @@
 # learn-git
 exemple
-[1]:http://www.kaishengit.com/
+[凯盛软件](http://www.kaishengit.com/)
